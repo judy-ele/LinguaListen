@@ -1,0 +1,5 @@
+{
+  "name": "LinguaListen",
+  "description": "An adaptive English listening homework application. Users select their proficiency level and topic to generate custom exercises with AI-narrated conversations and comprehension questions.",
+  "requestFramePermissions": []
+}
